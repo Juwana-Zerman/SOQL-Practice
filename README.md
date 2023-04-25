@@ -20,7 +20,7 @@ This Salesforce DX project was created to practice SOQL locally.
 <br>
 
 #### Dependencies
-VSCode
-SOQL
-Git and GitHub
-Bash Terminal
+* VSCode
+* SOQL
+* Git and GitHub
+* Bash Terminal
