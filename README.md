@@ -1,6 +1,6 @@
 # VSCode Salesforce SOQL Practice
 
-This Salesforce DX project was created to practice SOQL locally.
+This Salesforce DX project was created to practice SOQL locally. The SOQL Files can be found in the **```scripts/soql```** directory. 
 
 
 ## **Images of Queries and Results**
